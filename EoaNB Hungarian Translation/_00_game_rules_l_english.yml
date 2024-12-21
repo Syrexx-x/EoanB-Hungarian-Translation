@@ -4,45 +4,45 @@
 
 ### EUROPE ###
 
-RULE_GROUP_EOANB_RULES_EUROPE:0 "Country Paths - Europe"
+RULE_GROUP_EOANB_RULES_EUROPE:0 "Country Paths - Európa"
 
 ## France
 
 # Orsini Affair - Emperor's fate (Alive or Dead)
 
-FRA_EMPEROR_FATE: "£GFX_EOANB_game_rule_flag_FRA   Orsini Affair - Emperor's Fate"
-RULE_OPTION_FRA_EMPEROR_FATE_RANDOM: "Default"
-RULE_OPTION_FRA_EMPEROR_FATE_RANDOM_DESC: "Italian nationalists, led by Felice Orsini, will try to assassinate Napoleon III by throwing bombs towards the Emperor's carriage. Whether the attempt is successful or not will be left to fate."
-RULE_OPTION_FRA_EMPEROR_FATE_ALIVE: "The Emperor survives"
-RULE_OPTION_FRA_EMPEROR_FATE_ALIVE_DESC: "The Orsini attempt will fail, leading to the continued rule of Napoleon III in France."
-RULE_OPTION_FRA_EMPEROR_FATE_DEAD: "The Emperor is murdered"
-RULE_OPTION_FRA_EMPEROR_FATE_DEAD_DESC: "The Orsini attempt will succeed, and the Emperor will perish after a bomb lands next to his carriage. With the French Empire in chaos, a temporary regency will be established and some liberal reforms implemented until a new leader is chosen."
+FRA_EMPEROR_FATE: "£GFX_EOANB_game_rule_flag_FRA   Orsini Ügy - A Császár Sorsa"
+RULE_OPTION_FRA_EMPEROR_FATE_RANDOM: "Alap beállítás"
+RULE_OPTION_FRA_EMPEROR_FATE_RANDOM_DESC: "Az olasz nacionalisták Felice Orsini vezetésével megpróbálják meggyilkolni III. Napóleont, bombákat dobva a császár kocsija felé. Hogy a kísérlet sikerrel jár-e vagy sem, a sorsra van bízva."
+RULE_OPTION_FRA_EMPEROR_FATE_ALIVE: "A Császár túléli"
+RULE_OPTION_FRA_EMPEROR_FATE_ALIVE_DESC: "Az Orsini-kísérlet kudarcot vall, ami III. Napóleon uralkodásának folytatásához fog vezetni"
+RULE_OPTION_FRA_EMPEROR_FATE_DEAD: "A Császárt meggyilkolták"
+RULE_OPTION_FRA_EMPEROR_FATE_DEAD_DESC: "Az Orsini-kísérlet sikerrel jár, a császár pedig életét veszti, miután egy bomba a hintója mellett felrobban. A Francia Birodalomban káosz uralkodik, ezért ideiglenes kormányzóságot hoznak létre, és liberális reformokat hajtanak végre, amíg új vezetőt nem választanak."
 
 ## Sardinia-Piedmont
 
 # Risorgimento - Austro-Sardinian War - Russian Assistance
 
-PIE_RISORGIMENTO_RUSSIA: "£GFX_EOANB_game_rule_flag_PIE   £GFX_EOANB_game_rule_flag_RUS   Russo-Sardinian Meeting"
-RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_RANDOM: "Default"
-RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_RANDOM_DESC: "Sardinia-Piedmont's bid for the war against the Lombardo-Venetian Kingdom and Austria will involve asking Russia for assistance. The level of assistance that Russia provides, wether it is an alliance, assistance or just a guarantee of neutrality will be taken randomly or according to other settings."
-RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_ALLIANCE: "Alliance for Galicia"
-RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_ALLIANCE_DESC: "The upcoming war is seen as an opportunity to take Galicia from Austria, remedying the humilliation suffered during the Crimean War. Therefore, Russia will join the war on Sardinia-Piedmont's side, recognizing it as the rightful nation to unify Italy.\n\n§RRequires:§!\n§YSardinia-Piedmont is NOT already in an alliance with France.§!"
-RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_ASSISTANCE: "Russian Assistance"
-RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_ASSISTANCE_DESC: "The upcoming conflict is seen as an opportunity to punish Austria for their betrayal in the Crimean War. The Russian Empire will limit its assistance to placing troops at the austrian border, distracting them during the Second Italian War of Independence."
-RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_NEUTRALITY: "Russian Neutrality"
-RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_NEUTRALITY_DESC: "Not wanting to be involved in Italian affairs, Russia will give a guarantee of neutrality in the upcoming war and be done with it, refusing to give further assistance.\n\n§RRequires:§!\n§YSardinia-Piedmont is already in an alliance with France.§!"
+PIE_RISORGIMENTO_RUSSIA: "£GFX_EOANB_game_rule_flag_PIE   £GFX_EOANB_game_rule_flag_RUS   Orosz-Szardíniai Találkozó"
+RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_RANDOM: "Alap beállítás"
+RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_RANDOM_DESC: "Szardínia-Piemont ajánlata a Lombard-Venetiai Királyság és Ausztria elleni háborúban Oroszország segítségét kéri. Az, hogy Oroszország milyen szintű segítséget nyújt, legyen az szövetség, segítség vagy csak a semlegesség garanciája, véletlenszerűen vagy más beállítások szerint történik."
+RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_ALLIANCE: "Szövetség Gallíciáért"
+RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_ALLIANCE_DESC: "A közelgő háborút lehetőségnek tekintik arra, hogy Galíciát elfoglalják Ausztriától, orvosolva a krími háborúban elszenvedett megaláztatásokat. Ezért Oroszország csatlakozik a háborúhoz Szardínia-Piemont oldalán, elismerve azt, mint az Olaszország egyesítésére jogosult nemzetet.\n\n§RSzükséges:§!\n§YSzardínia-Piemont NEM áll már szövetségben Franciaországgal.§!"
+RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_ASSISTANCE: "Orosz Támogatás"
+RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_ASSISTANCE_DESC: "A közelgő konfliktusban lehetőséget látnak arra, hogy megbüntessék Ausztriát a krími háborúban elkövetett árulásáért. Az Orosz Birodalom a segítségét arra fogja korlátozni, hogy csapatokat helyezzen el az osztrák határon, elterelve a figyelmüket a második olasz függetlenségi háború alatt."
+RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_NEUTRALITY: "Orosz Semlegesség"
+RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_NEUTRALITY_DESC: "Oroszország nem akar belekeveredni az olasz ügyekbe, ezért semlegességi garanciát ad a közelgő háborúban, és ezzel le is zárja a kérdést, megtagadva a további segítségnyújtást.\n\n§RSzükséges:§!\n§YSzardínia-Piemont már szövetségben áll Franciaországgal.§!"
 
 ## Kingdom of Württemberg
 
 # Status of Liberalism (Integrated or Suppressed)
 
-WUR_LIBERALISM_STATUS: "£GFX_EOANB_game_rule_flag_WUR   Status of Liberalism in Württemberg"
-RULE_OPTION_WUR_LIBERALISM_STATUS_RANDOM: "Default"
-RULE_OPTION_WUR_LIBERALISM_STATUS_RANDOM_DESC: "The Kingdom of Württemberg will have to make a choice between integrating and suppressing liberalism. This choice will be taken randomly."
-RULE_OPTION_WUR_LIBERALISM_STATUS_SUPPRESS: "Suppress Liberalism"
-RULE_OPTION_WUR_LIBERALISM_STATUS_SUPPRESS_DESC: "Refusing to allow its continued growth, King Wilhelm will focus on suppressing liberal movements in the country."
-RULE_OPTION_WUR_LIBERALISM_STATUS_INTEGRATE: "Integrate Liberalism"
-RULE_OPTION_WUR_LIBERALISM_STATUS_INTEGRATE_DESC: "After careful consideration, King Wilhelm will decide to integrate liberalism in the kingdom."
+WUR_LIBERALISM_STATUS: "£GFX_EOANB_game_rule_flag_WUR   A Württembergi Liberalizmus Helyzete"
+RULE_OPTION_WUR_LIBERALISM_STATUS_RANDOM: "Alap beállítás"
+RULE_OPTION_WUR_LIBERALISM_STATUS_RANDOM_DESC: "A Württembergi Királyságnak választania kell a libaralizmus integrálása és elnyomása között. Ezt a választást véletlenszerűen fogják meghozni."
+RULE_OPTION_WUR_LIBERALISM_STATUS_SUPPRESS: "A liberalizmus elnyomása"
+RULE_OPTION_WUR_LIBERALISM_STATUS_SUPPRESS_DESC: "Vilmos király nem engedi, hogy tovább terjedjen a liberilsta ideológia, és ezen mozgalmak elnyomására fog öszpontosítani"
+RULE_OPTION_WUR_LIBERALISM_STATUS_INTEGRATE: "A Liberalizmus Integrálása"
+RULE_OPTION_WUR_LIBERALISM_STATUS_INTEGRATE_DESC: "Alapos mérlegelés után Vilmos király úgy dönt, hogy a liberalizmust integrálja a királyságba."
 
 ##  Montenegro
 
@@ -50,8 +50,8 @@ RULE_OPTION_WUR_LIBERALISM_STATUS_INTEGRATE_DESC: "After careful consideration, 
 
 
 
- MNT_mechanic_complexity: "£GFX_EOANB_game_rule_flag_MNT   Montenegro Mechanics Complexity"
- RULE_MNT_EASY_MECHANIC:  "Easy Mechanics"
+ MNT_mechanic_complexity: "£GFX_EOANB_game_rule_flag_MNT   Montenegrói Mechanizmusok Komplexitása"
+ RULE_MNT_EASY_MECHANIC:  "Könnyű Mechanizmus"
  RULE_MNT_EASY_MECHANIC_DESC: ""
- RULE_MNT_COMPLEX_MECHANIC: "Complex Mechanics"
+ RULE_MNT_COMPLEX_MECHANIC: "Komplex Mechanizmus"
  RULE_MNT_COMPLEX_MECHANIC_DESC: ""
