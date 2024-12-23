@@ -4,7 +4,7 @@
  ammonition_filling:0 "[?ammo_days_to_full|0G] §Gd§!"
  ammonition_dwindles:0 "[?ammo_days_to_empty|0R] §Rd§!"
  ammonition_empty:0 "§RÜRES§!"
- ammunition_topbar_tooltip:0 "§HLőszer§! \n\nJelenlegi lőszerek: [GetAmmoHundreds] \nNapi bevétel: [GetAmmoGainHundreds] \nLőszerkapacitás: [GetMaxAmmoHundreds] \n\nJelenlegi Napi Fogyasztás: [GetAmmoNeedHundreds] \nMaximális Napi Fogyasztás: [GetPotentialAmmoNeedHundreds]"
+ ammunition_topbar_tooltip:0 "§HLőszer§! \n\nJelenlegi lőszer mennyiség: [GetAmmoHundreds] \nNapi gyarapodás: [GetAmmoGainHundreds] \nLőszerkapacitás: [GetMaxAmmoHundreds] \n\nJelenlegi Napi Fogyasztás: [GetAmmoNeedHundreds] \nMaximális Napi Fogyasztás: [GetPotentialAmmoNeedHundreds]"
  ammunition_topbar_tooltip_delayed:0 "A §HLőszerhez§! katonai gyárakban vagy a speciális lőszergyárakban lehet hozzájutni. A harcban részt vevő egységek vagy azok a seregek, amelyeket nem irányít tábornok §YLőszert§! fogyasztanak. §RHa elfogy a lőszer, akkor a seregeid támadási és védekezési büntetést fog kapni, egészen addig a pontig, ahol már nem tudnak harcolni!§!"
  ammonition_hundreds:0 "[?ammo_h|H]"
  ammonition_thousands:0 "[?ammunition_variable|H1]§HK§!"
