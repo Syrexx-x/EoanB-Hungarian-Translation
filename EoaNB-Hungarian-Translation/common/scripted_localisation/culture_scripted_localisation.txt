@@ -352,7 +352,7 @@ defined_text = {
 		trigger = {
 			check_variable = { v = global.dalmatian }
 		}
-		localization_key = "Dalmáciai"
+		localization_key = "Dalmát"
 	}
 	text = {
 		trigger = {
@@ -8761,7 +8761,7 @@ defined_text = {
 		trigger = {
 			check_variable = { state_culture_array^0 = global.dalmatian }
 		}
-		localization_key = "Dalmáciai"
+		localization_key = "Dalmát"
 	}
 	text = {
 		trigger = {
