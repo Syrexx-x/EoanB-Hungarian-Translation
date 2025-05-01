@@ -15,37 +15,37 @@
   EOANBSYS_national_crisis_progress_counter_90: "§R[EOANBSYS_national_crisis_name_scripted] Progress§!"
   EOANBSYS_national_crisis_progress_counter_90_desc: ""
 
-EOANBSYS_national_crisis_progress_scripted_really_high: "§R[?ROOT.EOANBSYS_national_crisis_progress_var]%§!"
-EOANBSYS_national_crisis_progress_scripted_high:0 "§O[?ROOT.EOANBSYS_national_crisis_progress_var]%§!"
-EOANBSYS_national_crisis_progress_scripted_med:0 "§Y[?ROOT.EOANBSYS_national_crisis_progress_var]%§!"
-EOANBSYS_national_crisis_progress_scripted_low:0 "§G[?ROOT.EOANBSYS_national_crisis_progress_var]%§!"
+  EOANBSYS_national_crisis_progress_scripted_really_high: "§R[?ROOT.EOANBSYS_national_crisis_progress_var]%§!"
+  EOANBSYS_national_crisis_progress_scripted_high:0 "§O[?ROOT.EOANBSYS_national_crisis_progress_var]%§!"
+  EOANBSYS_national_crisis_progress_scripted_med:0 "§Y[?ROOT.EOANBSYS_national_crisis_progress_var]%§!"
+  EOANBSYS_national_crisis_progress_scripted_low:0 "§G[?ROOT.EOANBSYS_national_crisis_progress_var]%§!"
 
 
 # Scripted Localisation
- EOANBSYS_national_crisis_name_default: "Polgári lázadás"
- EOANBSYS_national_crisis_desc_default: "A §HPolgári Lázadások §! akkor történnek amikor a lakosság rendkívül bizalmatlanná válik a kormányával szemben, vagy nem helyesli azt, és módot kapott arra, hogy kifejezze nemtetszését."
- EOANBSYS_national_crisis_name_luddite_movement_crisis: "Luddita Mozgalom"
- EOANBSYS_national_crisis_desc_luddite_movement_crisis: "Insert Luddite Movement Description Here Fam"
- EOANBSYS_national_crisis_name_aspirations_for_liberty_crisis: "Szabadságra Törekvés"
- EOANBSYS_national_crisis_desc_aspirations_for_liberty_crisis: "Insert Aspiration for Liberty Description Here"
- EOANBSYS_national_crisis_name_worker_revolt_crisis: "Munkás Felkelés"
- EOANBSYS_national_crisis_desc_worker_revolt_crisis: "Insert Worker Revolt Description Here Fam"
- EOANBSYS_national_crisis_name_military_coup_crisis: "Katonai Hatalomátvétel"
- EOANBSYS_national_crisis_desc_military_coup_crisis: "Insert Military Coup Description Here Fam"
- EOANBSYS_national_crisis_name_bakumatsu_crisis: "Bakumatsu Krízis"
- EOANBSYS_national_crisis_desc_bakumatsu_crisis: "A japán szigetek évszázadokon át elszigeteltek és békében maradtak a világtól. Most, hogy a globális kereskedelem egyre jobban összekapcsolódik, a külföldi hatalmak egyre inkább érdekeltek abban, hogy hozzáférjenek partjainkhoz és piacainkhoz. Vezetőink most megosztottak abban, hogy a világ felé való nyitás milyen sorsot szán nekünk. Egyesek úgy látják, hogy ez egy lehetőség arra, hogy Japán kilépjen a több generáción át tartó stagnálásból. Mások úgy látják, hogy a külföldiek a földünkön egzisztenciális fenyegetést jelentenek magára Japánra nézve."
+  EOANBSYS_national_crisis_name_default: "Polgári lázadás"
+  EOANBSYS_national_crisis_desc_default: "A §HPolgári Lázadások §! akkor történnek amikor a lakosság rendkívül bizalmatlanná válik a kormányával szemben, vagy nem helyesli azt, és módot kapott arra, hogy kifejezze nemtetszését."
+  EOANBSYS_national_crisis_name_luddite_movement_crisis: "Luddita Mozgalom"
+  EOANBSYS_national_crisis_desc_luddite_movement_crisis: "Insert Luddite Movement Description Here Fam"
+  EOANBSYS_national_crisis_name_aspirations_for_liberty_crisis: "Szabadságra Törekvés"
+  EOANBSYS_national_crisis_desc_aspirations_for_liberty_crisis: "Insert Aspiration for Liberty Description Here"
+  EOANBSYS_national_crisis_name_worker_revolt_crisis: "Munkás Felkelés"
+  EOANBSYS_national_crisis_desc_worker_revolt_crisis: "Insert Worker Revolt Description Here Fam"
+  EOANBSYS_national_crisis_name_military_coup_crisis: "Katonai Hatalomátvétel"
+  EOANBSYS_national_crisis_desc_military_coup_crisis: "Insert Military Coup Description Here Fam"
+  EOANBSYS_national_crisis_name_bakumatsu_crisis: "Bakumatsu Krízis"
+  EOANBSYS_national_crisis_desc_bakumatsu_crisis: "A japán szigetek évszázadokon át elszigeteltek és békében maradtak a világtól. Most, hogy a globális kereskedelem egyre jobban összekapcsolódik, a külföldi hatalmak egyre inkább érdekeltek abban, hogy hozzáférjenek partjainkhoz és piacainkhoz. Vezetőink most megosztottak abban, hogy a világ felé való nyitás milyen sorsot szán nekünk. Egyesek úgy látják, hogy ez egy lehetőség arra, hogy Japán kilépjen a több generáción át tartó stagnálásból. Mások úgy látják, hogy a külföldiek a földünkön egzisztenciális fenyegetést jelentenek magára Japánra nézve."
 
- EOANBSYS_national_crisis_time_scripted_14: "Kéthetente"
- EOANBSYS_national_crisis_time_scripted_30: "Havonta"
- EOANBSYS_national_crisis_time_scripted_60: Kéthavonta"
- EOANBSYS_national_crisis_time_scripted_90: "Háromhavonta"
+  EOANBSYS_national_crisis_time_scripted_14: "Kéthetente"
+  EOANBSYS_national_crisis_time_scripted_30: "Havonta"
+  EOANBSYS_national_crisis_time_scripted_60: Kéthavonta"
+  EOANBSYS_national_crisis_time_scripted_90: "Háromhavonta"
 
 # Scripted Effects
- EOANBSYS_national_crisis_progress_add_tt: "§R$RIGHT|0$%§! §HTöredezettség§!"
- EOANBSYS_national_crisis_progress_minus_tt: "§G$RIGHT|0$%§! §HTöredezettség§!"
+  EOANBSYS_national_crisis_progress_add_tt: "§R$RIGHT|0$%§! §HTöredezettség§!"
+  EOANBSYS_national_crisis_progress_minus_tt: "§G$RIGHT|0$%§! §HTöredezettség§!"
 
 # Triggers
- EOANBSYS_national_crisis_progress_counter_var_less_than_one_tt: "§G0%§! §HTöredezettség§!"
- EOANBSYS_national_crisis_progress_counter_var_more_than_ninety_nine_tt: "§R100%§! §HTöredezettség§!"
+  EOANBSYS_national_crisis_progress_counter_var_less_than_one_tt: "§G0%§! §HTöredezettség§!"
+  EOANBSYS_national_crisis_progress_counter_var_more_than_ninety_nine_tt: "§R100%§! §HTöredezettség§!"
 
 # National Crises Flags
