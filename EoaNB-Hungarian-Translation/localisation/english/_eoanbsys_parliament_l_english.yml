@@ -163,7 +163,7 @@
   EOANB_REFORM_BUTTON: "§YReformáljuk meg§! az Országunkat \n\nNyissd meg az ablakot, hogy megváltoztasd a nemzetünk törvényeit. Ez az egyetlen módja annak, hogy megváltoztasd őket egy demokráciában, a Parlamenté a döntés, de természetesen meg lehet befolyásolni ezeket a szavazatokat egy kis §YLegitimitás§! elköltésével."
   EOANB_CALL_ELECTION_BUTTON: "Call an §YElection§! \n\nCall an immediate snap election to redistribute the seats of the Parliament. This is a risky political action, but it can be used to benefit from a particularly good, but probably ephemeral, political climate. \n--------------\n§R-50§! Legislative Power\n§R-10%§! Legitimacy"
 
-  colonial_government: "Colonial Government"
+  colonial_government: "Gyarmati Kormány"
 
  court: "Court Laws"
  kangaroo_court: "Kangaroo Court"
